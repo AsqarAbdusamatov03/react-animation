@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\capture"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact"
+		}
+	}
+}
